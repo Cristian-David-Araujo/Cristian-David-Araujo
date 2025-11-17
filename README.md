@@ -35,7 +35,7 @@ Here are some of the technologies and tools I work with:
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="kubeflow" width="40" height="40"/></a>
+  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"><img src="https://www.credo.be/wp-content/uploads/2019/11/kubeflow.png" alt="kubeflow" width="40" height="40"/></a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digitalocean" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
@@ -66,5 +66,5 @@ You can find me on the following platforms:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristian-david-araujo-araujo-918037276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-david-araujo" height="30" width="40" /></a>
   <a href="https://instagram.com/cristiandvdara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristiandvdara" height="30" width="40" /></a>
-  <a href="mailto:duego17@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="duego17@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:duego17@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="duego17@gmail.com" height="30" width="40" /></a>
 </p>
