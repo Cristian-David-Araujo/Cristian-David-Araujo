@@ -6,9 +6,13 @@
   │  Cosas que puedes editar (busca los comentarios "EDITA"):          │
   │   1. Las frases del banner animado                                 │
   │   2. La sección "Currently Building"                               │
-  │   3. La tabla de Featured Projects                                 │
-  │   4. El bloque de WakaTime (opcional pero MUY recomendado)         │
+  │   3. El bloque de WakaTime (opcional pero MUY recomendado)         │
   └────────────────────────────────────────────────────────────────────┘
+-->
+
+<!--
+  Nota: la sección "Featured projects" la quitamos por ahora.
+  Cuando tengas 2-3 repos públicos que valga la pena mostrar, avísame y la volvemos a poner.
 -->
 
 <div align="center">
@@ -25,8 +29,11 @@
 <a href="https://www.linkedin.com/in/cristian-david-araujo-araujo-918037276/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:duego17@gmail.com">
+<a href="mailto:cristiandvdara@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://nexbridge.cloud/">
+  <img src="https://img.shields.io/badge/NexBridge-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NexBridge" />
 </a>
 <a href="https://instagram.com/cristiandvdara">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -42,7 +49,8 @@
 ```ts
 const cristian = {
   role:      "Electronic Engineer — Universidad de Antioquia",
-  location:  "Colombia 🇨🇴",
+  at:        "NexBridge Corp (nexbridge.cloud)",
+  location:  "Medellín, Colombia 🇨🇴",
   focus:     ["XR / VR development", "Embedded systems", "Cloud & DevOps"],
   stack:     ["C++", "C#", "Python", "TypeScript"],
   runtime:   "ESP32 → FastAPI → Vue → Kubernetes → Meta Quest",
@@ -107,19 +115,6 @@ VR experiences and reusable engine tooling — while keeping one foot firmly in 
 
 <br/>
 
-## 📌 Featured projects
-
-<!-- EDITA: pon 3-4 repos reales. Si el proyecto es privado, apunta el link a un video/demo/LinkedIn -->
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Project name](#)** | One line about the problem it solves. | `Unreal` `C++` `Quest` |
-| **[Project name](#)** | One line about the problem it solves. | `Unity` `C#` `OpenXR` |
-| **[Project name](#)** | One line about the problem it solves. | `ESP32` `FastAPI` `Vue` |
-| **[Project name](#)** | One line about the problem it solves. | `Docker` `K8s` `Python` |
-
-<br/>
-
 ## 📊 Activity
 
 > Most of my work lives in **private and client repositories**, so the graph below only tells part of
@@ -164,16 +159,6 @@ VR experiences and reusable engine tooling — while keeping one foot firmly in 
 </div>
 -->
 
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cristian-David-Araujo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
-</div>
-</details>
-
-<br/>
-
 ## 🤝 Let's build something
 
 I'm open to collaborations on **XR, embedded and cloud-native** projects, and to freelance or
@@ -181,8 +166,8 @@ full-time engineering roles.
 
 <div align="center">
 
-<a href="mailto:duego17@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20hi-duego17@gmail.com-A78BFA?style=for-the-badge&logo=minutemailer&logoColor=white" alt="contact" />
+<a href="mailto:cristiandvdara@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20hi-cristiandvdara@gmail.com-A78BFA?style=for-the-badge&logo=minutemailer&logoColor=white" alt="contact" />
 </a>
 
 <br/><br/>
