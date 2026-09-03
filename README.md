@@ -1,49 +1,192 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif" width="200" alt="coding gif"/>
-  <h1 align="center">Hi, I'm Cristian David Araujo</h1>
-  <p align="center">
-    Electronic Engineering student from Colombia focused on <b>embedded systems</b>, <b>cloud/DevOps</b>, and <b>robotics</b>.
-    <br/>
-    Building end‑to‑end solutions (hardware → backend → frontend).
-  </p>
+<!--
+  ┌────────────────────────────────────────────────────────────────────┐
+  │  README de perfil de GitHub — Cristian David Araujo                │
+  │  Va en el repo:  Cristian-David-Araujo/Cristian-David-Araujo       │
+  │                                                                    │
+  │  Cosas que puedes editar (busca los comentarios "EDITA"):          │
+  │   1. Las frases del banner animado                                 │
+  │   2. La sección "Currently Building"                               │
+  │   3. La tabla de Featured Projects                                 │
+  │   4. El bloque de WakaTime (opcional pero MUY recomendado)         │
+  └────────────────────────────────────────────────────────────────────┘
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:7C3AED,100:06B6D4&height=190&section=header&text=Cristian%20David%20Araujo&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Electronic%20Engineer%20%C2%B7%20Embedded%20%2B%20XR%20%2B%20Cloud&descAlignY=58&descSize=16" width="100%" alt="banner" />
+
+<!-- EDITA: cambia las frases separadas por ";" -->
+<a href="https://github.com/Cristian-David-Araujo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Firmware+that+talks+to+the+cloud;VR+experiences+for+Meta+Quest;Unreal+%26+Unity+plugins+that+ship;From+PCB+to+Kubernetes+cluster" alt="typing" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/cristian-david-araujo-araujo-918037276/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:duego17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/cristiandvdara">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Cristian-David-Araujo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="views" />
+
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧠 About me
 
-I’m an Electronic Engineering student at the University of Antioquia. I enjoy designing practical, real‑world projects that combine hardware and software—especially IoT, automation, and cloud‑native deployments.
+```ts
+const cristian = {
+  role:      "Electronic Engineer — Universidad de Antioquia",
+  location:  "Colombia 🇨🇴",
+  focus:     ["XR / VR development", "Embedded systems", "Cloud & DevOps"],
+  stack:     ["C++", "C#", "Python", "TypeScript"],
+  runtime:   "ESP32 → FastAPI → Vue → Kubernetes → Meta Quest",
+  currently: "building Unreal & Unity plugins for immersive apps",
+  motto:     "If it has a sensor, a socket or a headset — I want to build with it",
+};
+```
 
-- **Embedded Systems**: ESP32, Arduino, sensors/actuators, real‑time data acquisition and control.
-- **Backend**: APIs with **FastAPI**, Python scripting, data processing, and integration.
-- **Frontend**: **Vue.js** + **TypeScript/JavaScript** for modern, responsive UIs.
-- **Cloud & DevOps**: Docker, Kubernetes, DigitalOcean, Linux; exploring MLOps with Kubeflow.
-- **Robotics & Automation**: Prototyping automated systems and experimenting with robotic applications.
+I design and ship **end-to-end systems**: the board, the firmware, the API, the interface and the
+infrastructure that keeps it running. Lately most of my energy goes into **immersive tech** — building
+VR experiences and reusable engine tooling — while keeping one foot firmly in hardware and cloud.
 
-I’m always learning and looking for opportunities to collaborate on challenging projects.
+<br/>
 
----
+## 🥽 Currently building
 
-## 🛠️ Tech Stack
+<!-- EDITA: reemplaza estas 3 líneas por lo que estés haciendo de verdad ahora mismo -->
 
-### Languages & Frameworks
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="38" height="38"/></a></p>
+| | |
+|---|---|
+| 🎮 **XR / VR** | Immersive applications for **Meta Quest** — interaction systems, hand tracking, performance profiling for standalone hardware. |
+| 🧩 **Engine tooling** | **Unreal Engine** and **Unity** plugins: editor tools and runtime modules built to be dropped into any project. |
+| 🔌 **Hardware ↔ XR** | Bridging real sensors (ESP32 / Arduino) with virtual environments — physical input driving virtual worlds. |
+| ☁️ **Cloud** | Containerized backends on Kubernetes / DigitalOcean, exploring MLOps with Kubeflow. |
 
-### Cloud & DevOps
-<p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer"><img src="https://www.credo.be/wp-content/uploads/2019/11/kubeflow.png" alt="Kubeflow" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38"/></a></p>
+<br/>
 
-### Hardware & Embedded
-<p align="left"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.espressif.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" width="38" height="38"/></a></p>
+## 🧰 Tech stack
 
-### Tools
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="38" height="38"/></a>&nbsp;&nbsp;<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="38" height="38"/></a></p>
+<div align="center">
 
----
+**XR & Game Engines**
 
-## 📫 Connect with Me
+<img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp,blender&theme=dark" alt="xr stack" />
+<br/>
+<img src="https://img.shields.io/badge/Meta_Quest-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest" />
+<img src="https://img.shields.io/badge/OpenXR-1A1A1A?style=flat-square" alt="OpenXR" />
+<img src="https://img.shields.io/badge/XR_Interaction_Toolkit-2C2C2C?style=flat-square" alt="XRI" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cristian-david-araujo-araujo-918037276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/cristiandvdara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:duego17@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+<br/><br/>
+
+**Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,matlab,qt&theme=dark" alt="embedded stack" />
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF" />
+<img src="https://img.shields.io/badge/FreeRTOS-2C7B2C?style=flat-square" alt="FreeRTOS" />
+
+<br/><br/>
+
+**Backend, Frontend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,vue,ts,js,docker,kubernetes,linux,git&theme=dark" alt="software stack" />
+<br/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+</div>
+
+<br/>
+
+## 📌 Featured projects
+
+<!-- EDITA: pon 3-4 repos reales. Si el proyecto es privado, apunta el link a un video/demo/LinkedIn -->
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Project name](#)** | One line about the problem it solves. | `Unreal` `C++` `Quest` |
+| **[Project name](#)** | One line about the problem it solves. | `Unity` `C#` `OpenXR` |
+| **[Project name](#)** | One line about the problem it solves. | `ESP32` `FastAPI` `Vue` |
+| **[Project name](#)** | One line about the problem it solves. | `Docker` `K8s` `Python` |
+
+<br/>
+
+## 📊 Activity
+
+> Most of my work lives in **private and client repositories**, so the graph below only tells part of
+> the story — private contributions are included in the totals.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristian-David-Araujo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-David-Araujo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12" alt="top languages" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Cristian-David-Araujo&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=12" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian-David-Araujo&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=12" width="98%" alt="activity graph" />
+
+</div>
+
+<!--
+  EDITA (RECOMENDADO): WakaTime mide horas reales de código, sin importar si el repo
+  es público o privado. Es la mejor prueba de que programas todos los días.
+  1) Crea cuenta en https://wakatime.com  2) Instala el plugin en VS Code / Unreal / Unity / Rider
+  3) Descomenta el bloque de abajo y cambia el usuario.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12" width="60%" alt="wakatime" />
+</div>
+-->
+
+<!--
+  EDITA (OPCIONAL): la "snake" que se come tu gráfico de contribuciones.
+  Necesita el workflow .github/workflows/snake.yml (te lo dejé en el otro archivo).
+  Después del primer run del Action, descomenta esto:
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cristian-David-Araujo/Cristian-David-Araujo/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Cristian-David-Araujo/Cristian-David-Araujo/output/snake.svg" width="98%" alt="snake animation" />
+  </picture>
+</div>
+-->
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cristian-David-Araujo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+</div>
+</details>
+
+<br/>
+
+## 🤝 Let's build something
+
+I'm open to collaborations on **XR, embedded and cloud-native** projects, and to freelance or
+full-time engineering roles.
+
+<div align="center">
+
+<a href="mailto:duego17@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20hi-duego17@gmail.com-A78BFA?style=for-the-badge&logo=minutemailer&logoColor=white" alt="contact" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:7C3AED,100:0B1120&height=110&section=footer" width="100%" alt="footer" />
+
+</div>
