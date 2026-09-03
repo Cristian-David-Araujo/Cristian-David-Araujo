@@ -120,6 +120,19 @@ VR experiences and reusable engine tooling — while keeping one foot firmly in 
 > Most of my work lives in **private and client repositories**, so the graph below only tells part of
 > the story — private contributions are included in the totals.
 
+<!--
+  ┌─ IMPORTANTE ──────────────────────────────────────────────────────────────┐
+  │  Si ves "Error Fetching Resource" en estas tarjetas, es que la instancia   │
+  │  PÚBLICA de github-readme-stats está saturada (error 504).                │
+  │                                                                            │
+  │  Solución definitiva: despliega tu propia instancia en Vercel y cambia     │
+  │  "github-readme-stats.vercel.app" por "TU-INSTANCIA.vercel.app" en las     │
+  │  3 URLs de abajo (stats, top-langs y wakatime).                           │
+  │  Bonus: con instancia propia, count_private cuenta tus commits privados    │
+  │  automáticamente y no hay límite de peticiones.                           │
+  └───────────────────────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristian-David-Araujo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="github stats" />
@@ -131,9 +144,21 @@ VR experiences and reusable engine tooling — while keeping one foot firmly in 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian-David-Araujo&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=12" width="98%" alt="activity graph" />
+<!-- Estas dos viven en otro servidor: si las de arriba fallan, estas normalmente sí cargan.
+     Cambia utcOffset=-5 si algún día te mudas de zona horaria. -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian-David-Araujo&theme=github_dark" alt="profile summary" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cristian-David-Araujo&theme=github_dark&utcOffset=-5" alt="productive time" />
 
 </div>
+
+<!--
+  ALTERNATIVA: gráfico de actividad tipo línea. Su servidor público también se cae a ratos,
+  por eso lo dejo comentado. Pruébalo abriendo la URL en el navegador antes de descomentar.
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian-David-Araujo&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=12" width="98%" alt="activity graph" />
+</div>
+-->
 
 <!--
   EDITA (RECOMENDADO): WakaTime mide horas reales de código, sin importar si el repo
